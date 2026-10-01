@@ -385,11 +385,11 @@ El proyecto será publicado mediante GitHub Pages para permitir su visualizació
 
 ### Repositorio
 
-[Ver repositorio en GitHub](AQUI_VA_EL_LINK_DEL_REPOSITORIO)
+[Ver repositorio en GitHub](https://github.com/AngelOxe/portafolio-personal)
 
 ### Página publicada
 
-[Ver portafolio en GitHub Pages](AQUI_VA_EL_LINK_DE_GITHUB_PAGES)
+[Ver portafolio en GitHub Pages](https://angeloxe.github.io/portafolio-personal/)
 
 ---
 
